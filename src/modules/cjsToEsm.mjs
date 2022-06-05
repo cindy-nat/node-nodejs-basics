@@ -35,6 +35,3 @@ const cjsToEsm = () => {
 }
 
 cjsToEsm()
-
-// node --experimental-json-modules src/modules/cjsToEsm.mjs
-
